@@ -2,6 +2,14 @@
 
 The Domain Unpaid Invoice Updater for WHMCS is a simple PHP script designed to update domain prices on unpaid invoices within a WHMCS billing system. With just a few steps, you can customize and run the script to apply price increases to specific top-level domains (TLDs) based on client currency, while also controlling the number of invoices processed and whether items are updated or added.
 
+
+# Features
+1. Automatically updates domain unpaid invoices.
+2. Customizable price increase configuration for various currencies.
+3. Granular control over which domain items are updated.
+4. Option to introduce new items or update existing items with price increases.
+
+
 ## Usage
 
 1. **Download the Script**: Click the "Download Code" button on the GitHub repository page to download the `unpaid_invoice_updater.php` file to your computer.
